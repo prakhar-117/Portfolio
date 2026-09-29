@@ -137,15 +137,7 @@ The styling uses a dark `#1e1e1e` background with `#ffbf00` as the primary accen
 
 ## 📸 Preview
 
-Add a screenshot of your portfolio here:
-
-```md
 ![Portfolio Preview](./preview.png)
-```
-
-> 💡 Take a screenshot of your website, save it as `preview.png` in the repository, and this section will display it on GitHub.
-
----
 
 ## 🌱 Future Improvements
 
